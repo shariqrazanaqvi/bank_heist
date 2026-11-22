@@ -50,7 +50,7 @@ The puzzles are random, so each case uses inputs whose results do not depend on 
 Open your terminal and execute:
 
 ```bash
-git clone https://github.com/mustafa-devlab/bank_heist.git
+git clone https://github.com/shariqrazanaqvi/bank_heist
 cd bank_heist
 ```
 
